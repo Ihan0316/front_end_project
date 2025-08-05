@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+#images
+*.svg
+*.png
+*.jpeg
+*.jpg
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
